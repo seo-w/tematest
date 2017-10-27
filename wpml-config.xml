@@ -1,0 +1,87 @@
+<wpml-config>
+  <custom-types>
+    <custom-type translate="1">property</custom-type>
+    <custom-type translate="1">testimonial</custom-type>
+  </custom-types>
+  <taxonomies>
+    <taxonomy translate="1">property-location</taxonomy>
+    <taxonomy translate="1">property-status</taxonomy>
+    <taxonomy translate="1">property-type</taxonomy>
+    <taxonomy translate="1">property-features</taxonomy>
+  </taxonomies>
+  <custom-fields>
+    <custom-field action="copy">estate_agent_email</custom-field>
+    <custom-field action="copy">estate_agent_facebook</custom-field>
+    <custom-field action="copy">estate_agent_fax_number</custom-field>
+    <custom-field action="copy">estate_agent_google</custom-field>
+    <custom-field action="copy">estate_agent_linkedin</custom-field>
+    <custom-field action="copy">estate_agent_mobile_phone_number</custom-field>
+    <custom-field action="copy">estate_agent_office_phone_number</custom-field>
+    <custom-field action="copy">estate_agent_twitter</custom-field>
+    <custom-field action="copy">estate_intro_fullscreen_background_slideshow_images</custom-field>
+    <custom-field action="copy">estate_post_gallery</custom-field>
+    <custom-field action="copy">estate_post_video_url</custom-field>
+    <custom-field action="copy">estate_floor_plan_bathrooms</custom-field>
+    <custom-field action="copy">estate_floor_plan_bedrooms</custom-field>
+    <custom-field action="copy">estate_floor_plan_description</custom-field>
+		<custom-field action="copy">estate_floor_plan_image</custom-field>
+		<custom-field action="copy">estate_floor_plan_price</custom-field>
+		<custom-field action="copy">estate_floor_plan_rooms</custom-field>
+		<custom-field action="copy">estate_floor_plan_size</custom-field>
+		<custom-field action="translate">estate_floor_plan_title</custom-field>
+		<custom-field action="translate">estate_internal_note</custom-field>   
+    <custom-field action="copy">estate_page_hide_sidebar</custom-field> 
+    <custom-field action="copy">estate_property_google_maps</custom-field>
+    <custom-field action="copy">estate_property_attachments</custom-field>
+    <custom-field action="copy">estate_property_available_from</custom-field>
+    <custom-field action="copy">estate_property_bathrooms</custom-field>
+    <custom-field action="copy">estate_property_bedrooms</custom-field>
+    <custom-field action="translate">estate_property_contact_information</custom-field>
+    <custom-field action="copy">estate_property_custom_agent</custom-field>
+    <custom-field action="copy">estate_property_featured</custom-field>
+    <custom-field action="copy">estate_property_garages</custom-field>
+    <custom-field action="copy">estate_property_id</custom-field>
+    <custom-field action="copy">estate_property_images</custom-field>
+    <custom-field action="copy">estate_property_layout</custom-field>
+    <custom-field action="copy">estate_property_layout_boxed</custom-field>
+    <custom-field action="copy">estate_property_location</custom-field>
+    <custom-field action="copy">estate_property_price</custom-field>
+    <custom-field action="translate">estate_property_price_suffix</custom-field>
+    <custom-field action="copy">estate_property_rooms</custom-field>
+    <custom-field action="copy">estate_property_size</custom-field>
+    <custom-field action="copy">estate_property_size_unit</custom-field>
+    <custom-field action="copy">estate_property_slideshow_fullscreen</custom-field>
+    <custom-field action="copy">estate_property_slideshow_mini_search</custom-field>
+    <custom-field action="copy">estate_property_slideshow_type</custom-field>
+    <custom-field action="copy">estate_property_sold</custom-field>
+    <custom-field action="copy">estate_property_status_update</custom-field>  
+    <custom-field action="copy">estate_property_video_id</custom-field>
+    <custom-field action="copy">estate_property_video_provider</custom-field>  
+    <custom-field action="translate">estate_testimonial_text</custom-field>
+  </custom-fields>
+  <admin-texts>
+    <key name="realty_theme_option">
+      <key name="404-page"/>
+      <key name="site-header-email"/>
+      <key name="property-title-additional-details"/>
+      <key name="property-title-features"/>
+      <key name="property-title-map"/>
+      <key name="property-title-attachments"/>
+      <key name="property-title-floor-plan"/>
+      <key name="property-title-agent"/>
+      <key name="copyright"/>
+      <key name="social-facebook"/>
+      <key name="social-twitter"/>
+      <key name="social-google"/>
+      <key name="social-linkedin"/>
+      <key name="social-pinterest"/>
+      <key name="social-instagram"/>
+      <key name="social-youtube"/>
+      <key name="social-skype"/>
+      <key name="contact-address"/>
+      <key name="contact-phone"/>
+      <key name="contact-mobile"/>
+      <key name="contact-email"/>
+    </key>
+  </admin-texts>
+</wpml-config>

@@ -1,0 +1,49 @@
+[
+    {
+        "key": "group_566ebde1b92c8",
+        "title": "Single Property Site",
+        "fields": [
+            {
+                "key": "field_566ebe0daec63",
+                "label": "Select Property",
+                "name": "estate_single_property_id",
+                "type": "post_object",
+                "instructions": "Please select from the properties you have added here.\r\nProperties -> Properties",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "post_type": [
+                    "property"
+                ],
+                "taxonomy": [],
+                "allow_null": 0,
+                "multiple": 0,
+                "return_format": "id",
+                "ui": 1
+            }
+        ],
+        "location": [
+            [
+                {
+                    "param": "page_template",
+                    "operator": "==",
+                    "value": "template-property-home.php"
+                }
+            ]
+        ],
+        "menu_order": 0,
+        "position": "normal",
+        "style": "default",
+        "label_placement": "top",
+        "instruction_placement": "label",
+        "hide_on_screen": [
+            "featured_image"
+        ],
+        "active": 1,
+        "description": ""
+    }
+]
